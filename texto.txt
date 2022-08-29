@@ -1,1 +1,5 @@
 ahhh prro
+
+function hablar(){
+console.log("ta sirviendo rey")
+}
